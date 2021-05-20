@@ -1,0 +1,17 @@
+.bio {
+    display: flex;
+    margin-left: 20px;
+    z-index: 2;
+    
+}
+
+.bio p{
+    font-size: 0.7rem;
+    color: gray;
+}
+
+.bioAvatar {
+    margin-right: 10px;
+    min-width: 50px;
+    border-radius: 100%;
+}
