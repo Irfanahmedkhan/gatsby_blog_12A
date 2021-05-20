@@ -38,7 +38,7 @@ const About = () => {
                     <p>I started my coding journey almost 6 month before with sir Zia bootCamp 2020, all thanx to sir Zia and other respected teachers for their precious time and guideline.
                     </p> */}
 <p>I am a professional Front-End web developer, providing Web App and web development services. <br/>
-I always try to write simple and clean code, so code can be understood by the client or other developers. <br/> Your sanctification is my top priority,</p>
+I always try to write simple and clean code, so code can be understood by the client or other developers. <br/> Your sanctification is my top priority.</p>
                     <h6><strong>My Skills are : </strong></h6>
 
                     <a style={{color: "blue"}}>  <strong> Jamstack </strong> , <strong> HTML / CSS </strong>  ,  <strong> Javascript / TypeScript </strong>,  <strong> ReactJS / GatsbyJS </strong>,  <strong> Jamstack </strong>,  <strong> Netlify Build / Deployment </strong>,  <strong> FaunaDB Database </strong>,   <strong> REST API </strong>,  <strong> GraphQL API with Apollo Client 3  </strong>,  <strong> Material UI </strong>,  <strong> AntD Design </strong>,  <strong> BootStrap </strong>,  <strong> Redux ToolKit </strong>,  <strong> WEB Animation </strong>,  <strong> Formik / Yup </strong>, 
